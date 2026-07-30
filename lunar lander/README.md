@@ -3,15 +3,15 @@
 A Deep Reinforcement Learning project focused on training an autonomous spacecraft agent to safely land on a designated landing pad using the Box2D physics engine physics simulator. 
 
 ## Developer Information
-**Name:** Akshat Garg  
+**Name:** Khushi Singh 
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE11838
 
-**Application Number:** IN26011052
+**Application Number:** IN26011031
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** khushi.23bce11838@vitbhopal.ac.in 
 
 * **Development Environment:** macOS (Apple Silicon M2 Pro/Max/Base architecture)
 
@@ -54,7 +54,7 @@ Since the Box2D physics engine requires compiling C++ libraries locally on macOS
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/LunarLander-PPO.git](https://github.com/YOUR_GITHUB_USERNAME/LunarLander-PPO.git)
+git clone [https://github.com/khushismile665/LunarLander-PPO.git](https://github.com/khushismile665/LunarLander-PPO.git)
 cd LunarLander-PPO
 
 ```
